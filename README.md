@@ -1,4 +1,31 @@
+<h1 align="center">Hi 👋, I'm Afiya Afreen</h1>
+<h3 align="center">A Passionate Data Analyst and Data Science Enthusiast aspiring Data Engineer</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suryayadav731&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+### 🎓 About Me
+
+- 🎓 B.Tech graduate from **Rajiv Gandhi College of Engineering, Research and Technology**, Chandrapur, Maharashtra.  
+- 💻 Completed **Data Science** at **Internshala Training**.  
+- 📊 Skilled in **Python, Data Analysis,Power BI, Excel, NLP, Machine Learning, Deep Learning**, and **Data Visualization**.   
+- 🌐 From: **Chandrapur, Maharashtra, India**    
+- 📧 Email: **afiyaafreen03@gmail.com**  
+- 💡 Fun fact: **Always curious to learn and analyze something new!**
+
+---
+
+### 📚 Certifications & Training
+
+
+- 🧠 **IBM SQL Certificate (DB0101EN)** – *Cognitive Class*  
+- ☕ **Machine Learning, SQL, Excel, Power BI, Python** – *Internshala Training*  
+- 🖥️ **Data Analysis with Python (DA0101EN)** – *Cognitive Class*  
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/afiya-afreen/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afiyaafreen03@gmail.com) 
 
