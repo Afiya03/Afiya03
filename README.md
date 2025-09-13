@@ -9,7 +9,7 @@
 
 ### 🎓 About Me
 
-- 🎓 B.Tech graduate from **Rajiv Gandhi College of Engineering, Research and Technology**, Chandrapur, Maharashtra.  
+- 🎓 B.Tech graduate from **Rajiv Gandhi College of Engineering, Research and Technology**.  
 - 💻 Completed **Data Science** at **Internshala Training**.  
 - 📊 Skilled in **Python, Data Analysis,Power BI, Excel, NLP, Machine Learning, Deep Learning**, and **Data Visualization**.   
 - 🌐 From: **Chandrapur, Maharashtra, India**    
